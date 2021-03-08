@@ -8,11 +8,11 @@
 
 ## 示意图
 
-![image-20210309010115137](https://frozenwhale.oss-cn-beijing.aliyuncs.com/img/image-20210309010115137.png)
+![img1](./img/img.png)
 
-![5](G:\code\2020icm_moni\easymcm\img\5.png)
+![5](./img/img2.png)
 
-![8](https://frozenwhale.oss-cn-beijing.aliyuncs.com/img/8.png)
+![8](./img/img3.png)
 
 ## 文件
 
